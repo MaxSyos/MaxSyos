@@ -1,6 +1,6 @@
 ### Hey there, I'm André Abreu👋
 
-## I'm a Front End Developer, ReactJs developer and avid learner. Currently studying and evolving more and more!
+## I'm a Full Stack Developer, ReactJs and NodeJs developer and avid learner. Currently studying and evolving more and more!
 - Super passionate about web development technologies!
 - Building cool projects. 
 - Contributing to the community.
